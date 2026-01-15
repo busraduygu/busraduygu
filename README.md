@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Büşra. I'm a .NET Full-Stack Developer</h1>
+<h1 align="center">Hi 👋, I'm Büşra. I'm a Full-Stack Developer</h1>
 <h3 align="center">Building scalable web applications & cloud-ready backend systems</h3>
 
 <p align="center">
