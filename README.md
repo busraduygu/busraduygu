@@ -22,56 +22,61 @@
 
 ---
 
+## 🛠 Tech Stack
+
 <p>
-  <a href="https://dotnet.microsoft.com/" target="_blank">
+  <a href="https://dotnet.microsoft.com/" style="text-decoration:none;">
     <img src="https://skillicons.dev/icons?i=dotnet" />
   </a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" style="text-decoration:none;">
     <img src="https://skillicons.dev/icons?i=cs" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="text-decoration:none;">
     <img src="https://skillicons.dev/icons?i=js" />
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
+  <a href="https://www.typescriptlang.org/" style="text-decoration:none;">
     <img src="https://skillicons.dev/icons?i=ts" />
   </a>
-  <a href="https://react.dev/" target="_blank">
+  <a href="https://react.dev/" style="text-decoration:none;">
     <img src="https://skillicons.dev/icons?i=react" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" style="text-decoration:none;">
     <img src="https://skillicons.dev/icons?i=html" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" style="text-decoration:none;">
     <img src="https://skillicons.dev/icons?i=css" />
   </a>
-  <a href="https://getbootstrap.com/" target="_blank">
+  <a href="https://getbootstrap.com/" style="text-decoration:none;">
     <img src="https://skillicons.dev/icons?i=bootstrap" />
   </a>
-  <a href="https://www.docker.com/" target="_blank">
+  <a href="https://www.docker.com/" style="text-decoration:none;">
     <img src="https://skillicons.dev/icons?i=docker" />
   </a>
-  <a href="https://git-scm.com/" target="_blank">
+  <a href="https://git-scm.com/" style="text-decoration:none;">
     <img src="https://skillicons.dev/icons?i=git" />
   </a>
-  <a href="https://github.com/" target="_blank">
+  <a href="https://github.com/" style="text-decoration:none;">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="https://www.postgresql.org/" target="_blank">
+  <a href="https://www.postgresql.org/" style="text-decoration:none;">
     <img src="https://skillicons.dev/icons?i=postgres" />
   </a>
-  <a href="https://redis.io/" target="_blank">
+  <a href="https://redis.io/" style="text-decoration:none;">
     <img src="https://skillicons.dev/icons?i=redis" />
   </a>
-  <a href="https://www.mongodb.com/" target="_blank">
+  <a href="https://www.mongodb.com/" style="text-decoration:none;">
     <img src="https://skillicons.dev/icons?i=mongodb" />
   </a>
-  <a href="https://kafka.apache.org/" target="_blank">
+  <a href="https://kafka.apache.org/" style="text-decoration:none;">
     <img src="https://skillicons.dev/icons?i=kafka" />
   </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linux" />
+  <a href="https://www.elastic.co/elasticsearch/" style="text-decoration:none;">
+    <img src="https://skillicons.dev/icons?i=elasticsearch" />
   </a>
-  <a href="https://nginx.org/" target="_blank">
+  <a href="https://www.elastic.co/kibana/" style="text-decoration:none;">
+    <img src="https://skillicons.dev/icons?i=kibana" />
+  </a>
+  <a href="https://nginx.org/" style="text-decoration:none;">
     <img src="https://skillicons.dev/icons?i=nginx" />
   </a>
 </p>
