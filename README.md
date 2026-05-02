@@ -74,7 +74,7 @@
     <img src="https://skillicons.dev/icons?i=elasticsearch" />
   </a>
   <a href="https://www.elastic.co/kibana/" style="text-decoration:none;">
-    <img src="https://skillicons.dev/icons?i=kibana" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kibana/kibana-original.svg" width="48" height="48"/>
   </a>
   <a href="https://nginx.org/" style="text-decoration:none;">
     <img src="https://skillicons.dev/icons?i=nginx" />
