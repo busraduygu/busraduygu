@@ -2,10 +2,10 @@
 <h3 align="center">Building scalable web applications & cloud-ready backend systems</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINK" target="_blank">
+  <a href="https://linkedin.com/in/büşra-duygu-08217017a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin"/>
   </a>
-  <a href="mailto:YOUR_MAIL">
+  <a href="mailto:busraduygu347@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
 </p>
